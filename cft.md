@@ -72,7 +72,7 @@ We welcome people who have never organized a SemEval task before, as well as tho
 ## Important Dates
 
 - **Task proposals due**: 13 April 2026 (Anywhere on Earth)
-- **Task selection notification**: 25 May 2026
+- **Task selection notification**: 1 June 2026
 
 ## Preliminary Timetable
 
