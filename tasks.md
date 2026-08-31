@@ -18,7 +18,7 @@ Websites and contact information for individual tasks will be given below soon.
 
 ### Lexical and Compositional Semantics
 
-- **[Task 3: Semantic Change Across Multiple Time Periods]((https://www.changeiskey.org/event/2027-semeval/)** ([[contact organizers]](mailto:nina@tahmasebi.se))<br> Nina Tahmasebi, Pierluigi Cassotti, Felix Morger, Lucia Siciliani, Pablo Mosteiro, Stefano De Pascale and Mariia Fedorova
+- **[Task 3: Semantic Change Across Multiple Time Periods](https://www.changeiskey.org/event/2027-semeval/)** ([[contact organizers]](mailto:nina@tahmasebi.se))<br> Nina Tahmasebi, Pierluigi Cassotti, Felix Morger, Lucia Siciliani, Pablo Mosteiro, Stefano De Pascale and Mariia Fedorova
 
 - **Task 4: Par-PARSEME: A Multilingual Shared Task on Paraphrasing of Idioms** ([[contact organizers]](mailto:agata.savary@universite-paris-saclay.fr))<br>
   Carlos Ramisch, Manon Scholivet, Agata Savary, Takuya Nakamura and Eric Bilinski 
