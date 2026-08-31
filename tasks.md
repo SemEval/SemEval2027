@@ -9,7 +9,7 @@ Websites and contact information for individual tasks will be given below soon.
 
 ### Reasoning and Inference
 
-- **Task 1: RETECO: A SemEval-2027 Shared Task on Reasoning-Oriented Retrieval** ([[contact organizers]](mailto:abdelrahman.abdallah@uibk.ac.at))<br> Abdelrahman Abdallah, Mohammed Ali, Muhammad Abdul-Mageed, Kevin Duh and Adam Jatowt. 
+- **Task 1: RETECO: A SemEval-2027 Shared Task on Reasoning-Oriented Retrieval** ([[contact organizers]](mailto:abdelrahman.abdallah@uibk.ac.at)) ([[website]](https://datascienceuibk.github.io/RETECO/))<br> Abdelrahman Abdallah, Mohammed Ali, Muhammad Abdul-Mageed, Kevin Duh and Adam Jatowt. 
 
 - **Task 2: Coherence-Aware Compositional Fine Grained Natural Language Inference (CoCo-NLI)** ([[contact organizers]](mailto:inigo.lopezgazpio@gmail.com))<br> Jon Felix Apaolaza Larraya, Aitor Soroa, Rodrigo Agerri and Inigo Lopez-Gazpio
 
