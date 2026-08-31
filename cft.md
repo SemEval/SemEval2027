@@ -77,7 +77,7 @@ We welcome people who have never organized a SemEval task before, as well as tho
 ## Preliminary Timetable
 
 - **Sample data ready**: 15 July 2026
-- **Training data ready**: 1 September 2026
+- **Training data ready**: ~~1 September 2026~~ 8 September 2026
 - **Evaluation data ready**: 1 December 2026 (internal deadline; not for public release)
 - **Evaluation start**: 10 January 2027
 - **Evaluation end by**: 31 January 2027 (latest date; task organizers may choose an earlier date)
