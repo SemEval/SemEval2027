@@ -44,7 +44,7 @@ Websites and contact information for individual tasks will be given below soon.
 - **Task 10: AgentRisk: Risk Evaluation, Identification, and Policy-Guided Response in Agentic Multi-Turn Interactions** ([[contact organizers]](mailto:menisorfeas@gmail.com))<br> Orfeas Menis Mastromichalakis, Anna (Ruoxi) Shang, Giorgos Filandrianos, Angelos Vlachos, Chrysoula Zerva, Emmanouil Koukoumidis and André Martins
 
 - **[Task 11: VAKRA-Advanced: Evaluating Multi-Hop Multi-Source tool-calling capabilities in Executable Environments](https://sites.google.com/view/vakrasemeval2027)** ([[contact organizers]](mailto:ankita.naik@ibm.com)),
-  [[join task mailing list]](https://sites.google.com/view/vakrasemeval2027))<br> Ankita Rajaram Naik, Anupama Narasimha Murthi, Benjamin T. Elder, Siyu Huo, Praveen Venkateswaran, Abdulhamid Adebayo, Sara Rosenthal and Danish Contractor 
+  ([[join task mailing list]](https://sites.google.com/view/vakrasemeval2027))<br> Ankita Rajaram Naik, Anupama Narasimha Murthi, Benjamin T. Elder, Siyu Huo, Praveen Venkateswaran, Abdulhamid Adebayo, Sara Rosenthal and Danish Contractor 
 
 #### CONTACT
 For questions about particular tasks, email the task organizers at the addresses linked above. General questions about SemEval organization should be directed to <semevalorganizers@gmail.com>.
