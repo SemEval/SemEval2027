@@ -29,7 +29,7 @@ Websites and contact information for individual tasks will be given below soon.
 
 - **[Task 6: Multilingual and Multimodal Culturally Grounded Spoken and Visual Question Answering](https://mmcultureqa-semeval27.github.io)** ([[contact organizers]](mailto:firojalam@gmail.com)), [[slack channel]](https://join.slack.com/t/mm-eval/shared_invite/zt-41j09ml4j-WMn0NzhqAgT9ZK6e1L8eBA))<br> Firoj Alam, Shammur Absar Chowdhury, Md Arid Hasan, Nadir Durrani, Fahim Dalvi, Ebru Arisoy and Usman Naseem 
 
-- **Task 7: CLaS: Cross-Lingual Alignment and Steering of Large Language Models** ([[contact organizers]](mailto:daniil.gurgurov@dfki.de))<br> Daniil Gurgurov, Tanja Baeumel, Dana Arad, Anastasiia Sedova, Masha Fedzechkina, Josef van Genabith, Patrick Schramowski, Marius Mosbach and Simon Ostermann 
+- **[Task 7: CLaS: Cross-Lingual Alignment and Steering of Large Language Models](https://clas-semeval2027.github.io/clas.semeval2027/task/)** ([[contact organizers]](mailto:daniil.gurgurov@dfki.de))<br> Daniil Gurgurov, Tanja Baeumel, Dana Arad, Anastasiia Sedova, Masha Fedzechkina, Josef van Genabith, Patrick Schramowski, Marius Mosbach and Simon Ostermann 
 
   
 ### Stereotypes, Framing, and Sentiment Analysis
