@@ -34,7 +34,7 @@ Websites and contact information for individual tasks will be given below soon.
   
 ### Stereotypes, Framing, and Sentiment Analysis
 
-- **Task 8: StereoQueerEval: Identification of Stereotypes and Hate Speech Targeting the LGBTQIA+ Community** ([[contact organizers]](mailto:alessandrateresa.cignarella@ugent.be))<br> Alessandra Teresa Cignarella, Greta Damo, Marta Marchiori Manerba, Marzieh Abdolmaleki, Els Lefever and Debora Nozza 
+- **[Task 8: StereoQueerEval: Identification of Stereotypes and Hate Speech Targeting the LGBTQIA+ Community](https://stereoqueereval.github.io/)** ([[contact organizers]](mailto:stereoqueereval@gmail.com))<br> Alessandra Teresa Cignarella, Greta Damo, Marta Marchiori Manerba, Marzieh Abdolmaleki, Els Lefever and Debora Nozza 
 
 - **Task 9: Analysis of Multimodal Framing in the News** ([[contact organizers]](mailto:jpiskorski@gmail.com))<br> Jakub Piskorski, Giovanni Da San Martino, Dimitar Iliyanov Dimitrov, Yova Kementchedjhieva, Ricardo Campos, Alipio Mario Jorge, Preslav Nakov, Lidia Pivovarova and Roman Yangarber
 
