@@ -14,7 +14,9 @@ Websites and contact information for individual tasks will be given below soon.
   [[join task mailing list]](https://groups.google.com/g/semeval-2027-reteco))<br>
   Abdelrahman Abdallah, Mohammed Ali, Muhammad Abdul-Mageed, Kevin Duh and Adam Jatowt.
 
-- **Task 2: Coherence-Aware Compositional Fine Grained Natural Language Inference (CoCo-NLI)** ([[contact organizers]](mailto:inigo.lopezgazpio@gmail.com))<br> Jon Felix Apaolaza Larraya, Aitor Soroa, Rodrigo Agerri and Inigo Lopez-Gazpio
+- **[Task 2: Directional-Consistent Fine-Grained Natural Language Inference (DiCo-NLI)](https://inigolopezgazpio.net/SemEval-2027-Task-2-DiCo-NLI/)**
+  ([[contact organizers]](mailto:inigo.lopez@ehu.eus))<br>
+  Jon Felix Apaolaza Larraya, Aitor Soroa, Rodrigo Agerri and Inigo Lopez-Gazpio
 
 ### Lexical and Compositional Semantics
 
