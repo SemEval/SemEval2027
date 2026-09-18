@@ -23,7 +23,7 @@ Websites and contact information for individual tasks will be given below soon.
 - **Task 4: Par-PARSEME: A Multilingual Shared Task on Paraphrasing of Idioms** ([[contact organizers]](mailto:agata.savary@universite-paris-saclay.fr))<br>
   Carlos Ramisch, Manon Scholivet, Agata Savary, Takuya Nakamura and Eric Bilinski 
 
-- **Task 5: ComPartMENT - Noun Compound and Particle Verb Compositionality Prediction in Context** ([[contact organizers]](mailto:filip.miletic@ims.uni-stuttgart.de))<br> Filip Miletić, Chris W. Jenkins and Sabine Schulte im Walde 
+- **[Task 5: ComPartMENT - Noun Compound and Particle Verb Compositionality Prediction in Context](https://sites.google.com/view/semeval-compartment)** ([[contact organizers]](mailto:semeval-compartment@ims.uni-stuttgart.de)[[Codabench]](https://www.codabench.org/competitions/17971/))<br> Filip Miletić, Chris W. Jenkins and Sabine Schulte im Walde 
 
 ### Cultural and Cross-Lingual Understanding
 
