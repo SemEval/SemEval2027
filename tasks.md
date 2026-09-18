@@ -20,7 +20,7 @@ Websites and contact information for individual tasks will be given below soon.
 
 - **[Task 3: Semantic Change Across Multiple Time Periods](https://www.changeiskey.org/event/2027-semeval/)** ([[contact organizers]](mailto:semeval-2027@changeiskey.org), [[Codabench]](https://www.codabench.org/competitions/17510/))<br> Nina Tahmasebi, Pierluigi Cassotti, Felix Morger, Lucia Siciliani, Eduardo Calò, Pablo Mosteiro, Stefano De Pascale and Mariia Fedorova
 
-- **Task 4: Par-PARSEME: A Multilingual Shared Task on Paraphrasing of Idioms** ([[contact organizers]](mailto:agata.savary@universite-paris-saclay.fr))<br>
+- **[Task 4: Par-PARSEME: A Multilingual Shared Task on Paraphrasing of Idioms](https://unidive.lisn.upsaclay.fr/doku.php?id=other-events:par-parseme)** ([[contact organizers]](mailto:agata.savary@universite-paris-saclay.fr))<br>
   Carlos Ramisch, Manon Scholivet, Agata Savary, Takuya Nakamura and Eric Bilinski 
 
 - **[Task 5: ComPartMENT - Noun Compound and Particle Verb Compositionality Prediction in Context](https://sites.google.com/view/semeval-compartment)** ([[contact organizers]](mailto:semeval-compartment@ims.uni-stuttgart.de)[[Codabench]](https://www.codabench.org/competitions/17971/))<br> Filip Miletić, Chris W. Jenkins and Sabine Schulte im Walde 
