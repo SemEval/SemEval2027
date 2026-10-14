@@ -129,12 +129,4 @@ Proposals will be reviewed by an independent group of area experts who may not h
 
 **Submission webpage**: https://softconf.com/acl2026/semevaltasks2027/
 
-## Chairs
-
-- **Debanjan Ghosh**, Analog Devices, USA
-- **Kai North**, Cambium Assessment, USA
-- **Ekaterina Kochmar**, Mohamed bin Zayed University of Artificial Intelligence (MBZUAI), UAE
-- **Mamoru Komachi**, Hitotsubashi University, Japan
-- **Marcos Zampieri**, George Mason University, USA
-
 **Contact**: semevalorganizers@gmail.com
