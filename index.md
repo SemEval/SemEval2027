@@ -21,3 +21,12 @@ We are delighted to announce that **SemEval-2027 will be co-located with [the 65
 - Notification to authors (tentative): March 2027
 - Camera-ready due (tentative): April 2027
 - **SemEval-2027 workshop: Summer 2027, co-located with ACL 2027 in [City, Country]**
+
+
+## SemEval-2027 Organizers
+
+- **Ekaterina Kochmar**, University of Victoria, Canada
+- **Kai North**, College Board, USA
+- **Mamoru Komachi**,  Hitotsubashi University, Japan
+- **Adam Nohejl**, RIKEN, Japan
+- **Justin Vasselli**, NAIST, Japan
