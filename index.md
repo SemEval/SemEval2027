@@ -20,7 +20,7 @@ We are delighted to announce that **SemEval-2027 will be co-located with [the 65
 - Paper submission (tentative): February 2027
 - Notification to authors (tentative): March 2027
 - Camera-ready due (tentative): April 2027
-- **SemEval-2027 workshop: Summer 2027, co-located with ACL 2027 in [City, Country]**
+- **SemEval-2027 workshop: Summer 2027, co-located with ACL 2027 in Kyoto, Japan**
 
 
 ## SemEval-2027 Organizers
