@@ -30,3 +30,4 @@ We are delighted to announce that **SemEval-2027 will be co-located with [the 65
 - **Mamoru Komachi**,  Hitotsubashi University, Japan
 - **Adam Nohejl**, RIKEN, Japan
 - **Justin Vasselli**, NAIST, Japan
+- **Nikita Soni**, NYU, USA
